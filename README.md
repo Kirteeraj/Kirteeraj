@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my proflie
-### 🌱 I’m currently learning Python:blue_heart: with some of it's cool libraries 
-### 👯 I’m looking to collaborate on project with python or c++ , also ready for something amazing:see_no_evil: 
+### 🌱 I’m currently bulding DirecDonor.com ( checkout )
+### 👯 I’m looking to collaborate and form team to chnage the world:see_no_evil: 
 ### 📫 How to reach me:[LinkedIn](https://linkedin.com/in/kirteeraj-malkar-7420601a0)
 ### 😄 I love to explore:shamrock:, learn, apply and play:grin: in this adeventrous world of Developers:octocat:
 ### ⚡ Fun fact: I love talking, lets talk !
