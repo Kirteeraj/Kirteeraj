@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my proflie
-### 🌱 I’m the web-devloper who has built [DirectDonor.com](https://directdonor.com),
+### 👦🏻 I’m the web-devloper who has built [DirectDonor.com](https://directdonor.com),
 ### 🌱 I’m currently developing a app using react-native and nodejs.
 ### 👯 I’m looking to collaborate and form team to change the world:see_no_evil: 
 ### 📫 How to reach me: [kirteeraj.rocks](https://www.kirteeraj.rocks)
