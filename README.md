@@ -1,5 +1,5 @@
 
-### 👦🏻 CEO & Co-Founder [5amclub.co.in](https://5amclub.co.in),
+### 👦🏻 CEO & Co-Founder [5amclub.co.in](https://5amclub.co.in)
 
 <!--
 **Kirteeraj/Kirteeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
