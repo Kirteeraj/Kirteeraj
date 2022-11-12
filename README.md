@@ -1,10 +1,6 @@
-### Hi there 👋 Welcome to my proflie
-### 👦🏻 I’m the web-devloper who has built [DirectDonor.com](https://directdonor.com),
-### 🌱 I’m currently developing a app using react-native and nodejs.
-### 👯 I’m looking to collaborate and form team to change the world:see_no_evil: 
-### 📫 How to reach me: [kirteeraj.rocks](https://www.kirteeraj.rocks)
-### 😄 I love to explore:shamrock:, learn, apply and play:grin: in this adeventrous world of Developers:octocat:
-### ⚡ Fun fact: I love talking, lets talk !
+### Hi there 👋
+### 👦🏻 CEO & Co-Founder [5amclub.co.in](https://5amclub.co.in),
+
 <!--
 **Kirteeraj/Kirteeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
